@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://.github.io/csb-l3184/static/css/main.c3ca7878.chunk.css",
-    "main.js": "https://.github.io/csb-l3184/static/js/main.c9f6f00d.chunk.js",
-    "main.js.map": "https://.github.io/csb-l3184/static/js/main.c9f6f00d.chunk.js.map",
+    "main.js": "https://.github.io/csb-l3184/static/js/main.eb8411bc.chunk.js",
+    "main.js.map": "https://.github.io/csb-l3184/static/js/main.eb8411bc.chunk.js.map",
     "runtime-main.js": "https://.github.io/csb-l3184/static/js/runtime-main.f2b1747d.js",
     "runtime-main.js.map": "https://.github.io/csb-l3184/static/js/runtime-main.f2b1747d.js.map",
     "static/js/2.016d8601.chunk.js": "https://.github.io/csb-l3184/static/js/2.016d8601.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.f2b1747d.js",
     "static/js/2.016d8601.chunk.js",
     "static/css/main.c3ca7878.chunk.css",
-    "static/js/main.c9f6f00d.chunk.js"
+    "static/js/main.eb8411bc.chunk.js"
   ]
 }
